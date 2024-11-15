@@ -10,6 +10,8 @@ tc
 
 test/out/*.out
 *.csv
+*.data
+*.txt
 benchmark/out/*.out
 benchmark/graphs/*.sg
 benchmark/graphs/*.wsg
