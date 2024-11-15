@@ -9,7 +9,7 @@ sssp
 tc
 
 test/out/*.out
-
+*.csv
 benchmark/out/*.out
 benchmark/graphs/*.sg
 benchmark/graphs/*.wsg
